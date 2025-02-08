@@ -1,4 +1,1 @@
-# TODO_App
-It is a To-do app that I made using Kotlin in this app I also used Room Storage so that data can be saved. You can see explanation of this project on my YouTube channel.
-[drawable](app%2Fsrc%2Fmain%2Fres%2Fdrawable)
-[drawable-v24](app%2Fsrc%2Fmain%2Fres%2Fdrawa.ble-v24)
+Checkout the screenshots of the system at - https://www.linkedin.com/posts/dewmini-chamodya-063b2a23b_androiddevelopment-kotlin-sqlite-activity-7277053009140850689-pk1z?utm_source=share&utm_medium=member_desktop
